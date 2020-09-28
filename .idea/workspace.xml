@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="961128a0-2199-4c48-87ab-18455c77ce00" name="Default Changelist" comment="" />
+    <list default="true" id="961128a0-2199-4c48-87ab-18455c77ce00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/scores.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MatchController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MatchController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/MatchFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/MatchFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/ParticipationFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/ParticipationFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/TeamFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/TeamFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/MatchSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/MatchSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/ParticipationSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/ParticipationSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/TeamSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/TeamSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +25,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -125,6 +141,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hxHkWW1tFDqu2UlQ7lqRcctDyW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -132,8 +149,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../auth-laravel" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -159,7 +177,9 @@
       <option name="presentableId" value="Default" />
       <updated>1600945966193</updated>
       <workItem from="1600945967771" duration="3373000" />
-      <workItem from="1600949915137" duration="971000" />
+      <workItem from="1600949915137" duration="8237000" />
+      <workItem from="1601216065230" duration="598000" />
+      <workItem from="1601274838981" duration="609000" />
     </task>
     <servers />
   </component>
@@ -167,9 +187,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1600946235537">
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600959094496">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1600946235537" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600959094496" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601275662809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601275662809" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1600958625281">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1600958625281" />
   </component>
 </project>

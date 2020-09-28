@@ -22,7 +22,10 @@ class MatchFactory extends Factory
     public function definition()
     {
         return [
-            //
+            /*
+            'slug' => $this->faker->slug,
+            'date' => $this->faker->dateTime,
+            */
         ];
     }
 }

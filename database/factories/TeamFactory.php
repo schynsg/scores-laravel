@@ -22,7 +22,11 @@ class TeamFactory extends Factory
     public function definition()
     {
         return [
-            //
+            /*
+            'slug' => $this->faker->slug,
+            'name'=> $this->faker->name,
+            'file-name'=> $this->faker->name,
+            */
         ];
     }
 }
